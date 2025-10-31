@@ -1,18 +1,4 @@
-{
- "name": "server",
- "version": "1.0.0",
- "description": "",
- "main": "server.js",
- "scripts": {
-  "start": "node app.js"
- },
- "author": "",
- "license": "ISC",
- "dependencies": {
-  "express": "^4.18.2",
- }
-}
-{
+﻿{
   "name": "cellocity-backend",
   "private": true,
   "version": "1.0.0",
